@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 3px dotted peachpuff;
+}
+
+.box {
+    border: 2px dashed purple;
+    height: 150px;
+    width: 150px;
+}
